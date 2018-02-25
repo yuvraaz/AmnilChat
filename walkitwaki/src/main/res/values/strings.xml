@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AmnilChat</string>
+    <string name="back_button_exits">Back button exits</string>
+    <string name="cancel">Cancel</string>
+    <string name="check_wifi_status_on_start">Check WiFi status on start</string>
+    <string name="close">Close</string>
+    <string name="enable">Enable</string>
+    <string name="exit">Exit</string>
+    <string name="network_initialization_failed">Network initialization failed</string>
+    <string name="never_ask_again">Never ask again</string>
+    <string name="nsd_not_found">NSD service not found</string>
+    <string name="push_to_talk">Hold to speak</string>
+    <string name="running">Running</string>
+    <string name="set">Set</string>
+    <string name="settings">Settings</string>
+    <string name="station_name">Station name</string>
+    <string name="system_error">System error</string>
+    <string name="turn_wifi_on">Turn WiFi on</string>
+    <string name="use_volume_buttons_to_talk">Use volume buttons to talk</string>
+    <string name="volume">Volume</string>
+    <string name="wifi_dialog_message">Application can only see devices connected to the same WiFi network.</string>
+    <string name="wifi_is_off">WiFi is off</string>
+    <string name="about_text">About</string>
+    <string name="_colon">Col</string>
+    <string name="about">About</string>
+    <string name="friends">Friends List</string>
+</resources>
